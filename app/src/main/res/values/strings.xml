@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework12</string>
+    <string name="id">Индентификатор (id)</string>
+    <string name="destination">Пункт Назначения</string>
+    <string name="departureTime">Время отправления поезда</string>
+    <string name="arrivalTime">Время прибытия поезда</string>
+    <string name="ticketPrice">Стоимость билета</string>
+    <string name="dataTransfer">Передача данных</string>
+</resources>
