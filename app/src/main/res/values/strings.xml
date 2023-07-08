@@ -5,5 +5,5 @@
     <string name="departureTime">Время отправления поезда</string>
     <string name="arrivalTime">Время прибытия поезда</string>
     <string name="ticketPrice">Стоимость билета</string>
-    <string name="dataTransfer">Передача данных</string>
+    <string name="dataTransfer">Регистрация билета</string>
 </resources>
